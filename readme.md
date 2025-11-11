@@ -13,6 +13,18 @@ INVENTORY REPORT  TANK   PRODUCT
 
 
 ```
+ ## Confidential computer software
+```
+
+Software revision WC.16.11.0018
+Confidential computer software
+
+```
+### The GPON OLT (Optical Line Terminal) is a key component responsible for connecting the Optical Distribution Network (
+```
+Device Model     : GPON OLT    
+```
+
 ## just why the uwu of the internet
 ```
 "uwu" product:"Jellyfin"
