@@ -13,6 +13,16 @@ INVENTORY REPORT  TANK   PRODUCT
 
 
 ```
+## just why the uwu of the internet
+```
+"uwu" product:"Jellyfin"
+
+abunch of ssh any port you want use it in filter
+"uwu"
+
+
+
+```
 ### pragma
 ```
 "Pragma: public"
