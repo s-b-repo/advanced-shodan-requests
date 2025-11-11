@@ -19,8 +19,14 @@ INVENTORY REPORT  TANK   PRODUCT
 
 abunch of ssh any port you want use it in filter
 "uwu"
+```
+
+### cpanel
+```
+Server: CradlepointHTTPService/1.0.0
 
 
+```
 
 ```
 ### pragma
