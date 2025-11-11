@@ -48,7 +48,6 @@ Xiaomi IoT: -Unauthorized
 
 
 
-```
 
 
 ### apache
@@ -56,9 +55,11 @@ Xiaomi IoT: -Unauthorized
 ```
 "Server: Apache/2.4" "200"
 ```
+
 ### proxy
 
 ```
+
 "HTTP/1.0 407 Proxy Authentication Required"
 "Proxy-Authenticate:"
 "realm="proxy"" -Unauthorized -Bad -Forbidden
@@ -70,17 +71,17 @@ Proxy-Authenticate: "CONNECTION: keep-alive" -Tinyproxy -Unauthorized
 "Proxy-Authenticate: Basic realm=Proxy Manager"
 Proxy-Authenticate: Basic realm="Luminati"
 
-
-
-
-
-
-
-
-
-
-
 ```
+
+
+
+
+
+
+
+
+
+
 
 ### open search
 ```
