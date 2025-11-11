@@ -13,6 +13,19 @@ INVENTORY REPORT  TANK   PRODUCT
 
 
 ```
+### version queries
+```
+Integrated Operating System.  
+
+Device Model                             ]
+
+Hardware version
+V1.1                                  
+
+Firmware version 
+V2
+```
+
  ## Confidential computer software
 ```
 
