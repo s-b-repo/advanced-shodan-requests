@@ -10,8 +10,10 @@ INVENTORY REPORT  TANK   PRODUCT
 
 "Tanker Network"
 
-
-
+### inventory systems
+```
+"PHP/8.2.28"
+```
 ```
 ### version queries
 ```
