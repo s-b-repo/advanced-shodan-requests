@@ -3,6 +3,21 @@
 You can assume these queries only return unsecured/open instances when possible. For your own legal benefit, do not attempt to login (even with default passwords) if they aren't! Narrow down results by adding filters like `country:US` or `org:"Harvard University"` or `hostname:"nasa.gov"` to the end.
 
 The world and its devices are quickly becoming more connected through the shiny new [Internet of ~~Things~~ Sh*t](https://motherboard.vice.com/en_us/topic/internet-of-shit) — and exponentially [more dangerous](https://blog.malwarebytes.com/101/2017/12/internet-things-iot-security-never/) as a result. To that end, I hope this list spreads awareness (and, quite frankly, pant-wetting fear) rather than harm. 
+
+### MikroTik
+```
+FTP server (MikroTik 7.19.3) ready
+MikroTik RouterOS:
+\x05!done%=ret=40a146c20421aa031d27849bc899b5fb\x00 port:8728
+RouterOS
+
+```
+### companies XD
+```
+mbvit
+
+
+```
 ### oracle
 ```
 Oracle-HTTP-Server
@@ -206,7 +221,7 @@ ad SUCTION RESERVOIR
 
 
 ```
-product:"MikroTik bandwidth-test server"
+product:" bandwidth-test server"
 
 ```
 
